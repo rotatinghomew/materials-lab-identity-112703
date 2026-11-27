@@ -1,0 +1,28 @@
+[
+  {
+    "id": "sid-8",
+    "subject": "old-81",
+    "origin": "training",
+    "authorities": [
+      "training",
+      "membership"
+    ]
+  },
+  {
+    "id": "sid-9",
+    "subject": "old-81",
+    "origin": "membership",
+    "authorities": [
+      "membership",
+      "notebook"
+    ]
+  },
+  {
+    "id": "sid-10",
+    "subject": "clean-28",
+    "origin": "membership",
+    "authorities": [
+      "training"
+    ]
+  }
+]

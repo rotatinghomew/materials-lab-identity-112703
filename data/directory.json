@@ -1,0 +1,20 @@
+[
+  {
+    "subject": "old-81",
+    "issuer": "training",
+    "local_id": "tr-009",
+    "label": "顾一"
+  },
+  {
+    "subject": "old-81",
+    "issuer": "membership",
+    "local_id": "mem-414",
+    "label": "顾乙"
+  },
+  {
+    "subject": "clean-28",
+    "issuer": "membership",
+    "local_id": "mem-411",
+    "label": "王甲"
+  }
+]

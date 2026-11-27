@@ -1,0 +1,22 @@
+[
+  {
+    "id": "rv-1",
+    "source": "training",
+    "person": "rv-person-1"
+  },
+  {
+    "id": "rv-2",
+    "source": "membership",
+    "person": "rv-person-2"
+  },
+  {
+    "id": "rv-3",
+    "source": "notebook",
+    "person": "rv-person-3"
+  },
+  {
+    "id": "rv-4",
+    "source": "notebook",
+    "person": "mem-414"
+  }
+]

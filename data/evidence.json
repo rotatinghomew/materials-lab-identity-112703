@@ -1,0 +1,46 @@
+[
+  {
+    "owner": "training",
+    "id": "train-2",
+    "issuer": "training",
+    "candidates": [
+      "tr-009"
+    ],
+    "credential": "cred-13"
+  },
+  {
+    "owner": "reservation",
+    "id": "book-81",
+    "issuer": "membership",
+    "candidates": [
+      "mem-414"
+    ],
+    "credential": "cred-21"
+  },
+  {
+    "owner": "notebook",
+    "id": "note-10",
+    "issuer": "notebook",
+    "candidates": [],
+    "credential": ""
+  },
+  {
+    "owner": "notebook",
+    "id": "note-11",
+    "issuer": "notebook",
+    "candidates": [
+      "mem-414",
+      "tr-009"
+    ],
+    "credential": ""
+  },
+  {
+    "owner": "training",
+    "id": "train-17",
+    "issuer": "membership",
+    "candidates": [
+      "mem-411"
+    ],
+    "credential": ""
+  }
+]

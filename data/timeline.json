@@ -1,0 +1,72 @@
+[
+  {
+    "at": 15,
+    "kind": "复核申请",
+    "ref": "old-81",
+    "facts": {}
+  },
+  {
+    "at": 20,
+    "kind": "目录复核",
+    "ref": "rv-1",
+    "facts": {
+      "issuer": "training",
+      "local_id": "tr-009"
+    }
+  },
+  {
+    "at": 24,
+    "kind": "目录复核",
+    "ref": "rv-2",
+    "facts": {
+      "issuer": "membership",
+      "local_id": "mem-414"
+    }
+  },
+  {
+    "at": 30,
+    "kind": "记录核对",
+    "ref": "rv-4",
+    "facts": {
+      "record": "note-11",
+      "issuer": "membership",
+      "local_id": "mem-414"
+    }
+  },
+  {
+    "at": 40,
+    "kind": "重新认证",
+    "ref": "mem-414",
+    "facts": {
+      "credential": "cred-21"
+    }
+  },
+  {
+    "at": 50,
+    "kind": "来源补交",
+    "ref": "note-11",
+    "facts": {
+      "issuer": "membership",
+      "local_id": "mem-414",
+      "source_record": "nb-25"
+    }
+  },
+  {
+    "at": 52,
+    "kind": "记录核对",
+    "ref": "rv-3",
+    "facts": {
+      "record": "note-11",
+      "issuer": "membership",
+      "local_id": "mem-414"
+    }
+  },
+  {
+    "at": 70,
+    "kind": "旧资料再送",
+    "ref": "note-11",
+    "facts": {
+      "source_record": "nb-4"
+    }
+  }
+]
